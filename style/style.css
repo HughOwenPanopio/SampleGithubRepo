@@ -1,6 +1,12 @@
 form {
   border: solid 1px;
   border-radius: 10%;
-  width: 10%;
+  width: 20%;
   background-color: brown;
+  text-align: center;
+}
+
+#clickButton {
+  border-radius: 10px;
+  background-color: #164c8f;
 }
